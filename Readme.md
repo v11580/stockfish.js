@@ -12,7 +12,7 @@ This is a multi-threaded engine, and will only run in newer browsers and node.js
 
 Web Deployment:
 -----------------------------
-   -  https://chesscalisthenics.com/T.html
+   -  https://chesscalisthenics.com
 
 
 
