@@ -10,6 +10,9 @@ NOTE: Stockfish.js 15 reqiures some of the latest features and does not work in 
 
 This is a multi-threaded engine, and will only run in newer browsers and node.js versions. For an older JS and WASM version, see the <a href=../../tree/Stockfish11>Stockfish.js 11 branch</a>.
 
+Web Deployment:
+-----------------------------
+   -  https://chesscalisthenics.com/T.html
 
 
 
